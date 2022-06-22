@@ -1,0 +1,26 @@
+body
+{
+	background-color: #000000;
+	color: #efefef;
+
+}
+
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+}
+
+.jumpers p
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+img {
+	border: 5px solid #555;
+}
+
+#alarm {
+	border: red solid 4px;
+}
